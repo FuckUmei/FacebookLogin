@@ -10,7 +10,7 @@
 
 Screenshots:
 
-<img src="https://github.com/FuckUmei/FacebookLogin/Images/img1.jpeg" height="590" width="322">&nbsp;&nbsp;
-<img src="https://github.com/FuckUmei/FacebookLogin/Images/img1.jpeg" height="590" width="322"><br><br><hr>
+<img src="https://github.com/FuckUmei/FacebookLogin/blob/master/Images/img1.jpeg" height="590" width="322">&nbsp;&nbsp;
+<img src="https://github.com/FuckUmei/FacebookLogin/blob/master/Images/img2.jpeg" height="590" width="322"><br><br><hr>
 
-<img src="https://github.com/FuckUmei/FacebookLogin/Images/img1.jpeg" height="590" width="322">&nbsp;&nbsp;
+<img src="https://github.com/FuckUmei/FacebookLogin/blob/master/Images/img3.jpeg" height="590" width="322">&nbsp;&nbsp;
