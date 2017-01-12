@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>08C4912C-A877-494C-B670-B36E93B76D5C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Facebook Login</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>A8A2243F-3D52-4B03-B651-96D8FB023917</key>
+		<string>https://github.com/bilalarslan1993/Facebook-Login.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Facebook Login.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>A8A2243F-3D52-4B03-B651-96D8FB023917</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bilalarslan1993/Facebook-Login.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>A8A2243F-3D52-4B03-B651-96D8FB023917</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A8A2243F-3D52-4B03-B651-96D8FB023917</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Facebook Login</string>
+		</dict>
+	</array>
+</dict>
+</plist>
