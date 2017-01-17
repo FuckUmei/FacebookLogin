@@ -69,7 +69,7 @@
                                            
                                            initWithGraphPath:result.token.userID
                                            
-                                           parameters:@{@"fields": @"id,name,email"}
+                                           parameters:@{@"fields": @"id,name,email,picture.type(normal)"}
                                            
                                            HTTPMethod:@"GET"];
              
@@ -78,6 +78,10 @@
                  // Handle the result
                  
                  NSLog(@"%@,%@,%@",result[@"id"],result[@"name"],result[@"email"]);
+                 // add uers picture
+                 NSDictionary *picture = result[@"picture"];
+                 NSDictionary *data = [picture objectForKey:@"data"];
+                 NSLog(@"%@",data[@"url"]);
                  
              }];
          }
